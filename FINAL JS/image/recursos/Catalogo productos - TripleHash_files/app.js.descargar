@@ -1,0 +1,24 @@
+
+/* definir clase producto */
+class  Producto{
+
+    /* propiedades */
+    sku =null;
+    name = "default";
+    price = 0;
+    offer = 0;
+    image = "imagendefault.png";
+
+    /* el contrusctorde la clase   */1
+    constructor (sku, name, price, offer, image){
+
+        this.sku = sku;
+        this.name = name;
+        this.price = price;
+        this.offer = offer;
+        if (image != undefined){
+            this. images = "image/" + image
+        } 
+    }
+}
+

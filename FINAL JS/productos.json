@@ -1,0 +1,115 @@
+﻿[
+    {
+        "sku": "92847346",
+        "name": "Smartphone Xiaomi Redmi 10 2022 128GB 4GB",
+        "price": "899",
+        "offert": "0.20",
+        "image": "XIAOMI REDMI 10.jpg"
+    },
+    {
+        "sku": "73247292",
+        "name": "Moto G52 6+128 AZUL",
+        "price": "1299",
+        "offert": "0.22",
+        "image": "MOTO G52.jpg"
+    },
+    {
+        "sku": "98277336",
+        "name": "Galaxy S23 128GB 8GB",
+        "price": "3999",
+        "offert": "0.23",
+        "image": "GALAXY S23.jpg"
+    },
+    {
+        "sku": "98364627",
+        "name": "Galaxy S23+ 512GB 8GB",
+        "price": "5299",
+        "offert": "0.28",
+        "image": "GALAXY S23+.jpg"
+    },
+    {
+        "sku": "98763724",
+        "name": "Galaxy A14 128GB 4GB Black",
+        "price": "799",
+        "offert": "0.24",
+        "image": "GALAXY A14.jpg"
+    },
+    {
+        "sku": "97865242",
+        "name": "Apple iPhone 14 128GB",
+        "price": "4999",
+        "offert": "0.20",
+        "image": "APPLE IPHONE 14.jpg"
+    },
+    {
+        "sku": "94567382",
+        "name": "iPhone 11 64GB",
+        "price": " 3199",
+        "offert": "0.34",
+        "image": "IPHONE 11 64gb.jpg"
+    },
+    {
+        "sku": "93645264",
+        "name": "Celular Samsung Galaxy S20 FE 5G 128GB 6GB Azul",
+        "price": "1789",
+        "offert": "0.15",
+        "image": "GALAXY S20.jpg"
+    },
+    {
+        "sku": "96784723",
+        "name": "Xiaomi Redmi Note 12 4G Onyx gray 4GM Ram",
+        "price": "999",
+        "offert": "0.22",
+        "image": "REDMI NOTE 12.jpg"
+    },
+    {
+        "sku": "93625474",
+        "name": "Smartphone HONOR X6s 128GB 4GB",
+        "price": "799",
+        "offert": "0.24",
+        "image": "HONOR X6S.jpg"
+    },
+    {
+        "sku": "97425542",
+        "name": "Samsung Galaxy A24 4Gb 128Gb Negro",
+        "price": "949",
+        "offert": "0.22",
+        "image": "GALAXY A24.jpg"
+    },
+    {
+        "sku": "98462545",
+        "name": "iPhone 11 128GB",
+        "price": "3499",
+        "offert": "0.25",
+        "image": "IPHONE 11.jpg"
+    },
+    {
+        "sku": "87346244",
+        "name": "Xiaomi Poco X5 Pro 5G 256gb 8gb Ram Dual Sim AZUL + E6S",
+        "price": "1999",
+        "offert": "0.28",
+        "image": "XIAOMI POCO X5.jpg"
+    },
+    {
+        "sku": "74826445",
+        "name": "Apple iPhone 12 - 64GB - Negro",
+        "price": "4899",
+        "offert": "0.34",
+        "image": "IPHONE 12.jpg"
+    },
+    {
+        "sku": "96472646",
+        "name": "XIAOMI POCO X5 5G 256GB 8GB NEGRO",
+        "price": "1799",
+        "offert": "0.32",
+        "image": "XIAOMI POCO X5 NEGRO.jpg"
+    },
+    {
+        "sku": "118316634",
+        "name": "REDMI NOTE 12 PRO+ 5G 8GB RAM 256GB ROM SKY BLUE",
+        "price": "1699",
+        "offert": "0.27",
+        "image": "REDMI NOTE 12 PRO.jpg"
+    }
+    
+]

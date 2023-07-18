@@ -1,0 +1,63 @@
+
+class Objeto {
+    /* Propiedades */
+    _name = "Default"//Propiedad para alamacenar nombre del objeto (por defecto)
+    _use  = "Default"//Propiedad para almacenar use del objetp (por defecto)
+
+    constructor(name, use) {
+        this.setName = name;//Llamado a set (setter) para asignar nombre
+        this.setUse = use;//llamadar a set (setter) para asignar uso
+    }
+
+    set setName(value) {
+        this._name = value.trim().toUpperCase();
+    }
+    get getName() {
+        return this._name;
+    }
+
+    set setUse(value) {
+        this._use = value.trim().toUpperCase();
+    }
+    get getUse() {
+        return this._use;
+    }
+
+    get getTogether() {
+        return this.getName + " " + this.getUse;
+    }
+}
+
+let object01 = new Objeto("Silla", "Sentarse");
+let object02 = new Objeto("Cama", "Dormir")
+
+class Usuario {
+  _name = "default"; // Propiedad para almacenar el nombre (por defecto: "default")
+  _lastname = "default"; // Propiedad para almacenar el apellido (por defecto: "default")
+
+  constructor(name, lastname) {
+    this.setName = name; // Llamada al setter para asignar el nombre
+    this.setLastname = lastname; // Llamada al setter para asignar el apellido
+  }
+
+  set setName(value) {
+    this._name = value.trim().toUpperCase(); // Setter: asigna el nombre después de aplicar trim() y toUpperCase()
+  }
+  get getName() {
+    return this._name; // Getter: devuelve el nombre almacenado
+  }
+
+  set setLastname(value) {
+    this._lastname = value.trim().toUpperCase(); // Setter: asigna el apellido después de aplicar trim() y toUpperCase()
+  }
+  get getLastname() {
+    return this._lastname; // Getter: devuelve el apellido almacenado
+  }
+
+  get getFullName() {
+    return this.getName + " " + this.getLastname; // Método: devuelve el nombre completo formateado
+  }
+}
+
+let user01 = new Usuario("Renato", "Aguilar"); // Crear una instancia de Usuario con nombre "Renato" y apellido "Aguilar"
+let user02 = new Usuario("Marcia", "Valdera"); // Crear una instancia de Usuario con nombre "Marcia" y apellido "Valdera"

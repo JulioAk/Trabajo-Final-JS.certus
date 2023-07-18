@@ -1,0 +1,28 @@
+/* Icono de Whatsapp */
+#chatWhatsApp{
+    width: 64px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+
+/* HEADER */
+header {
+    background-image: url(../image/recursos/header.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/* CARRITO */
+#imageCarritoVacio{
+    width: 60%;
+}
+
+#ventanaCarrito span {
+    font-size: 1em;
+}
+
+#ventanaCarrito .precioDescuento, #ventanaCarrito .precioFinal{
+    font-size: 1em;
+    text-align: right;
+}
